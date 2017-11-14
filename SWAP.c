@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+# i am going to add a function here 
 int main(void)
 {
   int x = 34;
@@ -16,3 +16,4 @@ int main(void)
   printf("x is now %s\n",x );
   printf("y is now %s\n",y );
 }
+A

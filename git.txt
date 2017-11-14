@@ -1,0 +1,5 @@
+git branch
+
+git branch test2
+
+git merge test2
