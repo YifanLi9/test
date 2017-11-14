@@ -1,5 +1,5 @@
 import numpy as np
 
 x  = 10
-y = 10
-z = 90 
+y = 22
+z = 89
