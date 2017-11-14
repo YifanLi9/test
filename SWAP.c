@@ -12,14 +12,12 @@ int main(void)
   int y = 50;
 
   printf("x is %i\n",x );
-  printf("y is %s\n",y );
+  printf("y is %i\n",y );
 
-  int temp = x;
-  x = y ;
-  y = temp;
+  swap(&x,&y);
 
 
-  printf("x is now %s\n",x );
-  printf("y is now %s\n",y );
+  printf("x is now %i\n",x );
+  printf("y is now %i\n",y );
 }
 A
