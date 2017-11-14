@@ -1,5 +1,11 @@
 #include <stdio.h>
-# i am going to add a function here 
+void swap(int *a,int *b)
+{
+  int temp = *a;
+  *a = *b;
+  *b = temp
+}
+
 int main(void)
 {
   int x = 34;
