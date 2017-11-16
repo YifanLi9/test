@@ -6,6 +6,14 @@ void swap(int *a,int *b)
   *b = temp;
 }
 
+
+void swap1(int *a, int*c)
+{
+  //going to implenet
+}
+
+
+
 int main(void)
 {
   int x = 34;
