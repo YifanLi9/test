@@ -12,7 +12,10 @@ void swap1(int *a, int*c)
   //going to implenet
 }
 
-
+void swap2(int *a, int*c)
+{
+  //going to implenet
+}
 
 int main(void)
 {
