@@ -1,3 +1,18 @@
+
+git clone <url>
+
+git add <filename>
+
+git diff //see the difference
+
+git commit -m "message"
+
+git status //currently going on
+
+git push
+
+git pull
+
 git branch
 
 git branch test2
